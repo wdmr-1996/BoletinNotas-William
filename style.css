@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #e2e0e0;
+    display: flex;
+  }
+  h2{
+    text-align: center;
+  }
+  #reporteAnual {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 4px 5px 20px rgba(0, 0, 0, 0.295);
+    width: 80%;
+    max-width: 600px;
+  }
+  table {
+    min-width: 30rem;
+    
+    margin-top: 5px;
+  }
+  th{
+    border: 1px solid #cccccc;
+    padding: 5px;
+    text-align:left;
+  }
+  th {
+    width:0px;
+    background-color: #f0f0f0;
+  }
+  td{
+    text-align: center;
+    border: 1px solid #cccccc;
+  }
+  
